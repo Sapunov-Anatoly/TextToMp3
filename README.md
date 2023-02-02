@@ -6,3 +6,7 @@
 Далее текст будет обработан. После обработки можно сразу прослушать созданный mp3 файл прямо в приложении.
 
 # Файл requirements.txt содержит все библиотеки, необходимые для работы программы.
+
+![Пример работы приложения при конвертации введенного текста](https://github.com/Sapunov-Anatoly/TextToMp3/blob/master/images/originaltext.PNG)
+
+![Пример работы приложения при конвертации текста из pdf-файла](https://github.com/Sapunov-Anatoly/TextToMp3/blob/master/images/pdf.PNG)
